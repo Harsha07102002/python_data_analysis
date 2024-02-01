@@ -1,0 +1,10 @@
+1)Improve customer experience by analyzing sales data
+
+2)Increase revenue
+
+
+Numpy - Mathematical operations like array, vectors and matrices
+
+Pandas - Data frame tables
+
+Seaborne,Matplotlib - Data Visualization
